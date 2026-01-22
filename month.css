@@ -1,0 +1,215 @@
+html{
+    padding: 10px;
+}
+.aladin-regular-h1 {
+  font-family: "Aladin", system-ui;
+  font-weight: 900;
+  font-style: normal;
+  font-size: xx-large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  text-shadow: 2px 2px aqua;
+}
+.aladin-regular-h2 {
+  font-family: "Aladin", system-ui;
+  font-weight: 600;
+  font-style: normal;
+  font-size: x-large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+.aladin-regular-h3 {
+  font-family: "Aladin", system-ui;
+  font-weight: 600;
+  font-style: normal;
+  font-size: x-large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+.quicksand-time {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+.quicksand-test {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 10px;
+  background-color: lightgreen;
+}
+.reenie-beanie-regular-insulin {
+  font-family: "Reenie Beanie", cursive;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 10px;
+  background-color: yellow;
+}
+.quicksand-coffee {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 10px;
+  background-color: lightgray;
+}
+.quicksand-smoke {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 10px;
+  background-color: orange;
+}
+.quicksand-meal {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 10px;
+  background-color: pink;
+}
+.reenie-beanie-regular-im-quantity {
+  font-family: "Reenie Beanie", cursive;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  background-color: pink;
+}
+.quicksand-meal-e {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 10px;
+  background-color: lightblue;
+}
+.reenie-beanie-regular-em-quantity {
+  font-family: "Reenie Beanie", cursive;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  background-color: lightblue;
+}
+.aladin-regular-footer {
+  font-family: "Aladin", system-ui;
+  font-weight: 700;
+  font-style: normal;
+  font-size: x-large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  background-color: aqua;
+}
+.quicksand-imeds {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 10px;
+  background-color: lightsalmon;
+}
+.reenie-beanie-regular-imeds-quantity {
+  font-family: "Reenie Beanie", cursive;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  background-color: lightsalmon;
+}
+.quicksand-emeds {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 10px;
+  background-color: lightskyblue;
+}
+.reenie-beanie-regular-emeds-quantity {
+  font-family: "Reenie Beanie", cursive;
+  font-weight: 600;
+  font-style: normal;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  background-color: lightskyblue;
+}
+
+.aladin-regular {
+  font-family: "Aladin", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.quicksand {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.reenie-beanie-regular {
+  font-family: "Reenie Beanie", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
